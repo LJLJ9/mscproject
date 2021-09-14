@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is the link to the Audio files page [Audio Files](https://github.com/d-byrne1/mscproject/audio_clips.md).
 
 ### Jekyll Themes
 
