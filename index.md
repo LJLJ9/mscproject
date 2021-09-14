@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-This is the link to the Audio files page [Audio Files](https://github.com/d-byrne1/mscproject/audio_clips.md).
+This is the link to the Audio files page [Audio Files](https://github.com/d-byrne1/mscproject/audio_clips.html).
 
 ### Jekyll Themes
 
