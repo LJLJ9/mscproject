@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+# Heading
 
-### Markdown
+## Heading
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Heading
+
+Some text
 
 ```markdown
 Syntax highlighted code block
