@@ -1,26 +1,10 @@
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
-
-
 # Example X
 
 Reference:          
 <p><audio src="Example 1/reference.wav" controls></audio></p>
 <br><br>
 
-| Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
+| Sampling Approach <img width=200/>| Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
 | Peak | <audio src="Example 1/peak/sample_1.wav" controls></audio> | | | | |
 | Prior | <audio src="Example 1/prior/sample_1.wav" controls></audio> | <audio src="Example 1/prior/sample_2.wav" controls></audio> | <audio src="Example 1/prior/sample_3.wav" controls></audio> | <audio src="Example 1/prior/sample_4.wav" controls></audio> | <audio src="Example 1/prior/sample_5.wav" controls></audio> |
