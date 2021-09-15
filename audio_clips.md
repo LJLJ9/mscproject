@@ -5,5 +5,5 @@
 
 | col1 | col2 | col3 |
 | --- | --- | --- |
-| a | b | c |
+| <audio src="tail8/sample-2.wav"></audio> | b | c |
 | e | f | g |
