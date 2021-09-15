@@ -4,7 +4,7 @@ Reference:
 <p><audio src="Example 1/reference.wav" controls></audio></p>
 <br><br>
 
-| Sampling ApproachX <img width=200/>| Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
+| Sampling ApproachX <img width=500/>| Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
 | Peak | <audio src="Example 1/peak/sample_1.wav" controls></audio> | | | | |
 | Prior | <audio src="Example 1/prior/sample_1.wav" controls></audio> | <audio src="Example 1/prior/sample_2.wav" controls></audio> | <audio src="Example 1/prior/sample_3.wav" controls></audio> | <audio src="Example 1/prior/sample_4.wav" controls></audio> | <audio src="Example 1/prior/sample_5.wav" controls></audio> |
