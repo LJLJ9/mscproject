@@ -5,5 +5,5 @@
 
 | col1 | col2 | col3 |
 | --- | --- | --- |
-| <audio src="gh-pages/tail8/sample-2.wav" controls></audio> | <audio src="/gh-pages/tail8/ssample_1.wav" controls></audio> | c | |
-| e | f | g | h |
+| <audio src="gh-pages/sample-2.wav"></audio> | <audio src="gh-pages/tail8/sample_1.wav" controls></audio> | c | |
+| <audio src="gh-pages/tail8/sample_1.wav"></audio>| f | g | h |
