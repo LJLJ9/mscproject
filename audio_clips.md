@@ -11,10 +11,8 @@ Reference:
 | Tail: r=5.13 | <audio src="Example 1/tail513/sample_1.wav" controls></audio> | <audio src="Example 1/tail513/sample_2.wav" controls></audio> | <audio src="Example 1/tail513/sample_3.wav" controls></audio> | <audio src="Example 1/tail513/sample_4.wav" controls></audio> | <audio src="Example 1/tail513/sample_5.wav" controls></audio> |
 | Tail: r=8.00 | <audio src="Example 1/tail8/sample_1.wav" controls></audio> | <audio src="Example 1/tail8/sample_2.wav" controls></audio> | <audio src="Example 1/tail8/sample_3.wav" controls></audio> | <audio src="Example 1/tail8/sample_4.wav" controls></audio> | <audio src="Example 1/tail8/sample_5.wav" controls></audio> |
 
-
 Reference:          
 <p><audio src="vae_f0_samples/Example1/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -26,7 +24,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example2/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -38,7 +35,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example3/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -50,7 +46,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example4/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -62,7 +57,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example5/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -72,10 +66,8 @@ Reference:
 | Tail: r=5.13 | <audio src="vae_f0_samples/Example5/tail513/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail513/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail513/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail513/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail513/sample_5.wav" controls></audio> |
 | Tail: r=8.00 | <audio src="vae_f0_samples/Example5/tail8/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail8/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail8/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail8/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example5/tail8/sample_5.wav" controls></audio> |
 
-
 Reference:          
 <p><audio src="vae_f0_samples/Example6/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -87,7 +79,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example7/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -99,7 +90,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example8/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -111,7 +101,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example9/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -123,7 +112,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example10/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -135,7 +123,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example11/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -147,7 +134,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example12/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -159,7 +145,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example13/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -171,7 +156,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example14/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -183,7 +167,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example15/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -195,7 +178,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example16/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -207,7 +189,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example17/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -219,7 +200,6 @@ Reference:
 
 Reference:          
 <p><audio src="vae_f0_samples/Example18/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -229,10 +209,8 @@ Reference:
 | Tail: r=5.13 | <audio src="vae_f0_samples/Example18/tail513/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail513/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail513/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail513/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail513/sample_5.wav" controls></audio> |
 | Tail: r=8.00 | <audio src="vae_f0_samples/Example18/tail8/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail8/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail8/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail8/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example18/tail8/sample_5.wav" controls></audio> |
 
-
 Reference:          
 <p><audio src="vae_f0_samples/Example19/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -242,10 +220,8 @@ Reference:
 | Tail: r=5.13 | <audio src="vae_f0_samples/Example19/tail513/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail513/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail513/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail513/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail513/sample_5.wav" controls></audio> |
 | Tail: r=8.00 | <audio src="vae_f0_samples/Example19/tail8/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail8/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail8/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail8/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example19/tail8/sample_5.wav" controls></audio> |
 
-
 Reference:          
 <p><audio src="vae_f0_samples/Example20/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -255,10 +231,8 @@ Reference:
 | Tail: r=5.13 | <audio src="vae_f0_samples/Example20/tail513/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail513/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail513/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail513/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail513/sample_5.wav" controls></audio> |
 | Tail: r=8.00 | <audio src="vae_f0_samples/Example20/tail8/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail8/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail8/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail8/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example20/tail8/sample_5.wav" controls></audio> |
 
-
 Reference:          
 <p><audio src="vae_f0_samples/Example21/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -268,10 +242,8 @@ Reference:
 | Tail: r=5.13 | <audio src="vae_f0_samples/Example21/tail513/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail513/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail513/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail513/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail513/sample_5.wav" controls></audio> |
 | Tail: r=8.00 | <audio src="vae_f0_samples/Example21/tail8/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail8/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail8/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail8/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example21/tail8/sample_5.wav" controls></audio> |
 
-
 Reference:          
 <p><audio src="vae_f0_samples/Example22/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
@@ -281,10 +253,8 @@ Reference:
 | Tail: r=5.13 | <audio src="vae_f0_samples/Example22/tail513/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail513/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail513/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail513/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail513/sample_5.wav" controls></audio> |
 | Tail: r=8.00 | <audio src="vae_f0_samples/Example22/tail8/sample_1.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail8/sample_2.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail8/sample_3.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail8/sample_4.wav" controls></audio> | <audio src="vae_f0_samples/Example22/tail8/sample_5.wav" controls></audio> |
 
-
 Reference:          
 <p><audio src="vae_f0_samples/Example23/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
