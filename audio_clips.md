@@ -1,7 +1,11 @@
+<style>
+  audio {width: 250px;}
+</style>
+
 # Example X
 
 Reference:          
-<p><audio src="Example 1/reference.wav" controls style="width: 200px;"></audio></p>
+<p><audio src="Example 1/reference.wav" controls ></audio></p>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
