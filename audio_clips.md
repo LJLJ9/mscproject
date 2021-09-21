@@ -28,6 +28,7 @@ Reference:
 Reference:          
 <p><audio src="vae_f0_samples/Example2/reference.wav" controls></audio></p>
 <br>
+
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
 | Peak  | <audio src=“vae_f0_samples/Example2/peak/sample_1.wav" controls></audio> | | | | |
