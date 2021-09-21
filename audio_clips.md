@@ -13,7 +13,7 @@ Reference:
 | Tail: r=8.00 | <audio src="Example 1/tail8/sample_1.wav" controls></audio> | <audio src="Example 1/tail8/sample_2.wav" controls></audio> | <audio src="Example 1/tail8/sample_3.wav" controls></audio> | <audio src="Example 1/tail8/sample_4.wav" controls></audio> | <audio src="Example 1/tail8/sample_5.wav" controls></audio> |
  
 Reference:          
-<p><audio src=" vae_f0_samples/Example 1/reference.wav" controls></audio></p>
+<p><audio src="vae_f0_samples/Example 1/reference.wav" controls></audio></p>
 <br>
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
