@@ -2,7 +2,6 @@
 
 Reference:          
 <p><audio src="Example 1/reference.wav" controls></audio></p>
-<br>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
