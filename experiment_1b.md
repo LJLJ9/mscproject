@@ -1,8 +1,8 @@
 <!-- exp 1b -->
 <style>
-.markdown-block {
-	margin: 0 !important;
-}
+    table {
+        width: 100%;
+    }
 </style>
 
 ## Samples from the model using WaveRNN
