@@ -1,6 +1,6 @@
 <!-- exp 2 -->
 
-## Experiment 2: *Something* to additional acoustic features
+## Experiment 2: Tail sampling with additional acoustic features
 
 # TABLES HERE
 

@@ -1,6 +1,6 @@
 <!-- exp 3 -->
 
-## Experiment 3: *Fier grand* sampling approach
+## Experiment 3: Finer grained sampling approach
 
 # TABLES HERE
 

@@ -1,12 +1,12 @@
 <!-- home page -->
 
-## This is the companion webpage for the Msc project of **Dave student number**
+## This is the companion webpage for the MSc project of **Dave student number**
 
 
-[Experiment 1: Tail sampling for verified Fo contours](https://d-byrne1.github.io/mscproject/experiment_1.html).
+[Experiment 1: Tail sampling for varied F0 contours](https://d-byrne1.github.io/mscproject/experiment_1.html).
 <br>
 
-[Experiment 2: Extending to additional acoustic features](https://d-byrne1.github.io/mscproject/experiment_2.html).
+[Experiment 2: Tail sampling with additional acoustic features](https://d-byrne1.github.io/mscproject/experiment_2.html).
 <br>
 
 [Experiment 3: Finer grained sampling approaches](https://d-byrne1.github.io/mscproject/experiment_3.html).
@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
- 
+
 
 ### Jekyll Themes
 
@@ -46,4 +46,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
