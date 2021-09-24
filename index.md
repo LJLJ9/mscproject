@@ -1,4 +1,3 @@
-<!-- home page -->
 ## This is the companion webpage for the Msc project of **Dave's student number**
 
 
@@ -15,7 +14,7 @@
 
 
 
-# Just leaving the rest here for now
+### Just leaving the rest here for now
 
 Some text
 
