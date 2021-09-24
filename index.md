@@ -1,7 +1,10 @@
-# Generative Modelling for Expressive Speech
+<h1 class="project-name">Generative Modelling for Expressive Speech</h1>
+
+<!-- # Generative Modelling for Expressive Speech -->
 
 
-## This is the companion wenpage for the Msc project of **student number**
+## This is the companion webpage for the Msc project of **student number**
+<br>
 ### Samples corresponding to each experiment can be found here
 
 
