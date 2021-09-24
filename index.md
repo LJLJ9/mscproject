@@ -1,6 +1,6 @@
-<h1 class="project-name">Generative Modelling for Expressive Speech</h1>
+<h1 class="project-name">Generative  for Expressive Speech</h1>
 
-<!-- # Generative Modelling for Expressive Speech -->
+# Generative Modelling for Expressive Speech
 
 
 ## This is the companion webpage for the Msc project of **student number**
@@ -8,11 +8,11 @@
 ### Samples corresponding to each experiment can be found here
 
 
-[Experiment 1: Tail sampling for verified Fo contours](https://d-byrne1.github.io/mscproject/audio_clips.html).
+[Experiment 1: Tail sampling for verified Fo contours](https://d-byrne1.github.io/mscproject/experiment_1.html).
 <br>
-[Experiment 2: Extending to additional acoustic features](https://d-byrne1.github.io/mscproject/audio_clips.html).
+[Experiment 2: Extending to additional acoustic features](https://d-byrne1.github.io/mscproject/experiment_2.html).
 <br>
-[Experiment 3: Finer grained sampling approaches](https://d-byrne1.github.io/mscproject/audio_clips.html).
+[Experiment 3: Finer grained sampling approaches](https://d-byrne1.github.io/mscproject/experiment_3.html).
 
 
 
