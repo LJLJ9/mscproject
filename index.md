@@ -1,4 +1,4 @@
-<h1 class="project-name">Generative  for Expressive Speech</h1>
+<!-- <h1 class="project-name">Generative  for Expressive Speech</h1> -->
 
 # Generative Modelling for Expressive Speech
 
