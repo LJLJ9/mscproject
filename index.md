@@ -1,10 +1,5 @@
 
----
-
-title: My First Page
-layout: default
-
----
+<title>Generative Modelling for Expressive Speech | mscproject</title>
 
 ## Generative Modelling for Expressive Speech
 
