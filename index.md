@@ -1,7 +1,9 @@
 <meta property="og:site_name" content="hello">
+<script type="application/ld+json">
+{"headline":"Generative Modelling for Expressive Speech","url":"https://d-byrne1.github.io/mscproject/","@type":"WebSite","name":"hello","@context":"https://schema.org"}</script>
 <h1 class="project-name">hello</h1>
 
-## Generative Modelling for Expressive Speech
+## Generative Modelling for Expressive Speech x
 
 ## This is the companion webpage for the Msc project of **student number**
 <br>
