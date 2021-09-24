@@ -21,17 +21,17 @@
     <link rel="stylesheet" href="/mscproject/assets/css/style.css?v=bd4e03680563515025f99c2a14b257097116f01d">
     <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
   </head>
-
+  <body>
 <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">
       <h1 class="project-name">Generative Modelling for Expressive Speech</h1>
       <h2 class="project-tagline"></h2>
         <a href="https://github.com/d-byrne1/mscproject" class="btn">View on GitHub</a>
     </header>
+</body>
 
 
 
-    
 # Hello
 
 ## This is the companion webpage for the Msc project of **student number**
