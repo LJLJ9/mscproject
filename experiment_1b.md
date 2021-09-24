@@ -1,15 +1,12 @@
 <!-- exp 1b -->
 <style>
-    table {
+    body {
         width: 100%;
     }
 </style>
 
 ## Samples from the model using WaveRNN
 
-Reference:   
-???       
-<!-- <p><audio src="Experiment1/vae_f0_wavernn_web_samples/Example1/reference.wav" controls style="width: 250px;"></audio></p> -->
 
 | Sample | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
 | --- | --- | --- | --- | --- | --- | --- |
