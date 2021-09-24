@@ -1,8 +1,18 @@
 # Generative Modelling for Expressive Speech
 
-## Heading
 
-### Heading
+## This is the companion wenpage for the Msc project of **student number**
+### Samples corresponding to each experiment can be found here
+
+
+[Experiment 1: Tail sampling for verified Fo contours](https://d-byrne1.github.io/mscproject/audio_clips.html).
+[Experiment 2: Extending to additional acoustic features](https://d-byrne1.github.io/mscproject/audio_clips.html).
+[Experiment 3: Finer grained sampling approaches](https://d-byrne1.github.io/mscproject/audio_clips.html).
+
+
+
+
+
 
 Some text
 
@@ -24,7 +34,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
  
-This is the link to the Audio files page [Audio Files](https://d-byrne1.github.io/mscproject/audio_clips.html).
 
 ### Jekyll Themes
 
