@@ -1,5 +1,7 @@
 # Example X
 
+<img src="Example 1/peak/peak_samples_plot.png" alt="Example 1 peak">
+
 Reference:          
 <p><audio src="Example 1/reference.wav" controls style="width: 250px;"></audio></p>
 
