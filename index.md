@@ -1,6 +1,7 @@
-<h6 class="project-name">This is the companion webpage for the Msc project of **student number**</h6>
+<!-- <h6 class="project-name">This is the companion webpage for the Msc project of **student number**</h6> -->
+<br>
 
-### Samples corresponding to each experiment can be found here
+### This is the companion webpage for the Msc project of **Dave's student number**
 
 
 [Experiment 1: Tail sampling for verified Fo contours](https://d-byrne1.github.io/mscproject/experiment_1.html).
