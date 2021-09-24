@@ -5,28 +5,9 @@
 Reference:          
 <p><audio src="Experiment1/vae_f0_wavernn_samples/Example1/reference.wav" controls style="width: 250px;"></audio></p>
 
-| Sample | AFP F0 | Peak | Peak | Peak | Tail: r=5.13 | Tail:r=8 |
+| Sample | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example1.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example2.wav" controls style="width: 250px;"></audio>> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example3.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example4.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example5.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example6.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example7.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example8.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example9.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example10.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example11.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example12.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example13.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example14.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example15.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example16.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example17.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example18.wav" controls style="width: 250px;"></audio> 
-| <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example19.wav" controls style="width: 250px;"></audio> 
+| 1 | <audio src="Experiment1/vae_f0_wavernn_samples/afp_f0/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/peak/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/prior/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/tail_392/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/tail_513/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/tail_8/Example1.wav" controls style="width: 250px;"></audio> | 
 
 
 <!-- | Prior | <audio src="Experiment1/vae_f0_wavernn_samples/Example1/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/Example1/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/Example1/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/Example1/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_samples/Example1/prior/sample_5.wav" controls style="width: 250px;"></audio> | |
