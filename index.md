@@ -1,6 +1,4 @@
-<!-- <h6 class="project-name">This is the companion webpage for the Msc project of **student number**</h6> -->
-<!-- <br> -->
-
+<!-- home page -->
 ## This is the companion webpage for the Msc project of **Dave's student number**
 
 
