@@ -1,3 +1,9 @@
-<h6 class="project-name">Experiment 3: *Fier grand* sampling approach</h6>
+<!-- exp 3 -->
+
+## Experiment 3: *Fier grand* sampling approach
 
 # TABLES HERE
+
+
+<br><br>
+Navigate to Home page [here](https://d-byrne1.github.io/mscproject/index.html).

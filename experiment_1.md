@@ -1,4 +1,6 @@
-<h6 class="project-name">Experiment 1: Tail sampling for varied Fo countours</h6>
+<!-- exp 1 -->
+
+## Experiment 1: Tail sampling for varied Fo countours
 
 1. [Samples from the model using Griffinlim Tail sampling for verified Fo contours](https://d-byrne1.github.io/mscproject/experiment_1a.html).
 <br>
