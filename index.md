@@ -1,4 +1,12 @@
-# Generative Modelling for Expressive Speech
+<body>
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Generative Modelling for Expressive Speech</h1>
+      <h2 class="project-tagline"></h2>
+        <a href="https://github.com/d-byrne1/mscproject" class="btn">View on GitHub</a>      
+    </header>
+</body>
+
+## Hello
 
 ## This is the companion webpage for the Msc project of **student number**
 <br>
