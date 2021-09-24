@@ -1,4 +1,4 @@
-## This is the companion webpage for the Msc project of **Dave's student number**
+## This is the companion webpage for the Msc project of **student number**
 
 
 [Experiment 1: Tail sampling for verified Fo contours](https://d-byrne1.github.io/mscproject/experiment_1.html).
