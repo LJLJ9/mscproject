@@ -5,6 +5,7 @@
 </head>
 </html>
 
+<meta property="og:site_name" content="mscproject">
 <h1 class="project-name">hello</h1>
 
 ## Generative Modelling for Expressive Speech
