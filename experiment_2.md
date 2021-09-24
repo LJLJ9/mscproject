@@ -1,3 +1,3 @@
-<h2 class="project-name">Experiment 2: *Something* to additional acoustic features</h2>
+<h5 class="project-name">Experiment 2: *Something* to additional acoustic features</h5>
 
 # TABLES HERE

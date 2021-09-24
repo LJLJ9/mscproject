@@ -1,4 +1,4 @@
-<h2 class="project-name">This is the companion webpage for the Msc project of **student number**</h2>
+<h5 class="project-name">This is the companion webpage for the Msc project of **student number**</h5>
 
 ### Samples corresponding to each experiment can be found here
 
