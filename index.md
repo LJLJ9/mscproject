@@ -1,10 +1,3 @@
-
-<html>
-<head>
-<title>Test</title>
-</head>
-</html>
-
 <meta property="og:site_name" content="hello">
 <h1 class="project-name">hello</h1>
 
