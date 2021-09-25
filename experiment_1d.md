@@ -59,25 +59,6 @@ After
 <br>
 <audio src="Experiment1/transfer_examples/Example3/transfer_after.wav" controls style="width: 250px;"></audio>
 
-### Example 4
-
-<img src="Experiment1/transfer_examples/Example4/base.png" alt="Ex 1 plot">
-<br>
-
-Base Latent
-<br>
-<audio src="Experiment1/transfer_examples/Example4/base_latent.wav" controls style="width: 250px;"></audio>
-<br>
-<img src="Experiment1/transfer_examples/Example4/transfer.png" alt="Ex 1 plot">
-<br>
-Before
-<br>
-<audio src="Experiment1/transfer_examples/Example4/transfer_before.wav" controls style="width: 250px;"></audio>
-<br>
-After
-<br>
-<audio src="Experiment1/transfer_examples/Example4/transfer_after.wav" controls style="width: 250px;"></audio>
-
 Back to [Experiment 1](https://d-byrne1.github.io/mscproject/experiment_1.html).
 <br>
 <br>
