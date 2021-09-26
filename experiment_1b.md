@@ -8,7 +8,7 @@
 ## Samples from the model using WaveRNN
 
 
-| Sample | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
+| Sample | AFP Fo | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <audio src="Experiment1/vae_f0_wavernn_web_samples/afp_f0/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/peak/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/prior/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_392/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_513/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_8/Example1.wav" controls style="width: 250px;"></audio> |
 | 2 | <audio src="Experiment1/vae_f0_wavernn_web_samples/afp_f0/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/peak/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/prior/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_392/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_513/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_8/Example2.wav" controls style="width: 250px;"></audio> | 

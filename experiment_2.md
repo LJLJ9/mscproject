@@ -2,11 +2,12 @@
 
 ## Experiment 2: Tail sampling with additional acoustic features
 
-Reference:          
+Reference:        
 <p><audio src="Experiment2/vae_afp_web_samples/Example1/reference.wav" controls style="width: 250px;"></audio></p>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example1.wav" controls style="width: 250px;"></audio> | | | | |
 | Peak  | <audio src="Experiment2/vae_afp_web_samples/Example1/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
 | Prior | <audio src="Experiment2/vae_afp_web_samples/Example1/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/prior/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=3.92 | <audio src="Experiment2/vae_afp_web_samples/Example1/tail392/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/tail392/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/tail392/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/tail392/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment2/vae_afp_web_samples/Example1/tail392/sample_5.wav" controls style="width: 250px;"></audio> |
