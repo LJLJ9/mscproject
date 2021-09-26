@@ -2,19 +2,6 @@
 
 ## Samples from the model using Griffin Lim
 
-### Example 17
-
-Reference:          
-<p><audio src="Experiment1/vae_f0_web_samples/Example17/reference.wav" controls style="width: 250px;"></audio></p>
-
-| Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
-| --- | --- | --- | --- | --- | --- |
-| Peak  | <audio src="Experiment1/vae_f0_web_samples/Example17/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
-| Prior | <audio src="Experiment1/vae_f0_web_samples/Example17/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/prior/sample_5.wav" controls style="width: 250px;"></audio> |
-| Tail: r=3.92 | <audio src="Experiment1/vae_f0_web_samples/Example17/tail392/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail392/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail392/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail392/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail392/sample_5.wav" controls style="width: 250px;"></audio> |
-| Tail: r=5.13 | <audio src="Experiment1/vae_f0_web_samples/Example17/tail513/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail513/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail513/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail513/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail513/sample_5.wav" controls style="width: 250px;"></audio> |
-| Tail: r=8.00 | <audio src="Experiment1/vae_f0_web_samples/Example17/tail8/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail8/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail8/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail8/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example17/tail8/sample_5.wav" controls style="width: 250px;"></audio> |
-
 ### Example 1
 
 Reference:          
