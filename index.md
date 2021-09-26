@@ -9,4 +9,4 @@
 [Experiment 2: Tail sampling with additional acoustic features](https://d-byrne1.github.io/mscproject/experiment_2.html).
 <br>
 
-[Experiment 3: Finer grained sampling approaches](https://d-byrne1.github.io/mscproject/experiment_3_1-8.html).
+[Experiment 3: Finer grained sampling approaches](https://d-byrne1.github.io/mscproject/experiment_3.html).
