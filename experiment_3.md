@@ -116,13 +116,13 @@ Reference:
 
 ### Example 9
 
-Reference:          
+Reference:
 <p><audio src="Experiment3/tvae_afp_web_samples/Example9/reference.wav" controls style="width: 250px;"></audio></p>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
 | AFP | <audio src="afp_web_samples/Example9.wav" controls style="width: 250px;"></audio> | | | | |
-| Mean  | <audio src="Experiment3/tvae_afp_web_samples/Example9/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
+| Mean | <audio src="Experiment3/tvae_afp_web_samples/Example9/peak/sample_1.wav" controls style="width: 250px;"></audio> | test | | | |
 | Ind. Prior (0.6) | <audio src="Experiment3/tvae_afp_web_samples/Example9/scaled_prior_0.6/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/scaled_prior_0.6/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/scaled_prior_0.6/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/scaled_prior_0.6/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/scaled_prior_0.6/sample_5.wav" controls style="width: 250px;"></audio> |
 | Ind Prior (1) | <audio src="Experiment3/tvae_afp_web_samples/Example9/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/prior/sample_5.wav" controls style="width: 250px;"></audio> |
 | AR Prior | <audio src="Experiment3/tvae_afp_web_samples/Example9/ar_prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/ar_prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/ar_prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/ar_prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment3/tvae_afp_web_samples/Example9/ar_prior/sample_5.wav" controls style="width: 250px;"></audio> |
