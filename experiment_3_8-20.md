@@ -5,6 +5,7 @@
 ### Example 9
 
 Reference:          
+<p><audio src="Experiment3/reference.wav" controls style="width: 250px;"></audio></p>
 <p><audio src="Experiment3/tvae_afp_web_samples/Example9/reference.wav" controls style="width: 250px;"></audio></p>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
