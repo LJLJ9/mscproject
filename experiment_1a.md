@@ -262,6 +262,7 @@ Reference:
 | Tail: r=5.13 | <audio src="Experiment1/vae_f0_web_samples/Example20/tail513/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail513/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail513/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail513/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail513/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=8.00 | <audio src="Experiment1/vae_f0_web_samples/Example20/tail8/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail8/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail8/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail8/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_web_samples/Example20/tail8/sample_5.wav" controls style="width: 250px;"></audio> |
 
+<br><br>
 Back to [Experiment 1](https://d-byrne1.github.io/mscproject/experiment_1.html).
 <br><br>
 Navigate to Home page [here](https://d-byrne1.github.io/mscproject/index.html).
