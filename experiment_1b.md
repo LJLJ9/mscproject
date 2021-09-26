@@ -1,9 +1,4 @@
 <!-- exp 1b -->
-<style>
-    body {
-        width: 100%;
-    }
-</style>
 
 ## Samples from the model using WaveRNN
 
