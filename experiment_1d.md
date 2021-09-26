@@ -60,6 +60,6 @@ After
 <audio src="Experiment1/transfer_examples/Example3/transfer_after.wav" controls style="width: 250px;"></audio>
 
 <br><br>
-Back to [Experiment 1](https://d-byrne1.github.io/mscproject/experiment_1.html).
+Back to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
-Navigate to Home page [here](https://d-byrne1.github.io/mscproject/index.html).
+Navigate to Home page [here](https://ljlj9.github.io/mscproject/index.html).

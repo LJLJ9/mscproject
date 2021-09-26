@@ -36,6 +36,6 @@
 | <audio src="Experiment1/interpolation_examples/Example4/latent1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/interpolation_examples/Example4/latent2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/interpolation_examples/Example4/latent3.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/interpolation_examples/Example4/latent4.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/interpolation_examples/Example4/latent5.wav" controls style="width: 250px;"></audio> |
 
 <br><br>
-Back to [Experiment 1](https://d-byrne1.github.io/mscproject/experiment_1.html).
+Back to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
-Navigate to Home page [here](https://d-byrne1.github.io/mscproject/index.html).
+Navigate to Home page [here](https://ljlj9.github.io/mscproject/index.html).
