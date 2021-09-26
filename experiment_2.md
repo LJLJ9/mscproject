@@ -4,7 +4,7 @@
 
 ### Example 1
 Reference:        
-<p><audio src="Experiment2/vae_afp_web_samples/Example1/reference.wav" controls style="width: 250px;"></audio></p>
+<p><audio src="Experiment2/vae_afp_web_samples/Example1/reference-converted.wav" controls style="width: 250px;"></audio></p>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
