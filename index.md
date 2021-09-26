@@ -14,7 +14,7 @@
 
 test
 <audio controls = "controls" style="width: 250px;">
-<source src="Experiment3/tvae_afp_web_samples/Example19/mean/sample_1.wav" type="audio/wav">
-<source src="Experiment3/tvae_afp_web_samples/Example19/mean/sample_1.wav" type="audio/mp3">
-<source src="Experiment3/tvae_afp_web_samples/Example19/mean/sample_1.wav" type="audio/ogg">
+<source src="Experiment3/tvae_afp_web_samples/Example9/convert_reference.wav" type="audio/wav">
+<source src="Experiment3/tvae_afp_web_samples/Example9/convert_reference.wav" type="audio/mp3">
+<source src="Experiment3/tvae_afp_web_samples/Example9/convert_reference.wav" type="audio/ogg">
 </audio>
