@@ -23,7 +23,5 @@ reference
 <audio controls = "controls" style="width: 250px;">
 <source src="Experiment3/tvae_afp_web_samples/Example9/convert_reference.wav" type="audio/wav">
 </audio>
-please
-<audio controls = "controls" style="width: 250px;">
-<source src="Experiment3/tvae_afp_web_samples/Example9/con_exp3_eg9_prior_sample_1.wav" type="audio/wav">
-</audio>
+test
+<audio src="Experiment3/tvae_afp_web_samples/Example9/con_exp3_eg9_prior_sample_1.wav" style="width: 250px;" controls></audio>
