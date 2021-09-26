@@ -116,8 +116,10 @@ Reference:
 
 ### Example 9
 
+
+test1
 Reference:
-<p><audio src="Experiment3/tvae_afp_web_samples/Example9/reference.wav" controls></audio></p>
+<p><audio controls><source src="Experiment3/tvae_afp_web_samples/Example9/reference.wav" type="audio/wav"></audio></p>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
