@@ -5,15 +5,6 @@
 ### Example 9
 
 Reference:     
-<p><audio controls style="width: 250px;">
-    <source src="testing123/sample_1.wav" type="audio/wav">>
-</audio></p>
-test
-<p><audio src="testing123/sample_1.wav" controls style="width: 250px;"></audio></p>
-<p><audio src="testing123/sample_2.wav" controls style="width: 250px;"></audio></p>
-<p><audio src="testing123/sample_3.wav" controls style="width: 250px;"></audio></p>
-<p><audio src="testing123/sample_4.wav" controls style="width: 250px;"></audio></p>
-<p><audio src="testing123/sample_5.wav" controls style="width: 250px;"></audio></p>
 <p><audio src="Experiment3/tvae_afp_web_samples/Example9/reference.wav" controls style="width: 250px;"></audio></p>
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
