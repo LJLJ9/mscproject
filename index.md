@@ -10,3 +10,7 @@
 <br>
 
 [Experiment 3: Finer grained sampling approaches](https://ljlj9.github.io/mscproject/experiment_3.html).
+
+
+test
+[sample 1](Experiment3/tvae_afp_web_samples/Example19/mean/sample_1.wav)
