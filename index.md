@@ -12,7 +12,6 @@
 [Experiment 3: Finer grained sampling approaches](https://ljlj9.github.io/mscproject/experiment_3.html).
 
 
-test
 <audio controls = "controls" style="width: 250px;">
 <source src="Experiment3/tvae_afp_web_samples/Example9/convert_reference.wav" type="audio/wav">
 <source src="Experiment3/tvae_afp_web_samples/Example9/convert_reference.wav" type="audio/mp3">
