@@ -4,7 +4,11 @@
 
 ### Example 9
 
-Reference:          
+Reference:     
+<p><audio controls style="width: 250px;">
+    <source src="testing123/sample_1.wav" type="audio/wav">>
+</audio></p>
+test
 <p><audio src="testing123/sample_1.wav" controls style="width: 250px;"></audio></p>
 <p><audio src="testing123/sample_2.wav" controls style="width: 250px;"></audio></p>
 <p><audio src="testing123/sample_3.wav" controls style="width: 250px;"></audio></p>
