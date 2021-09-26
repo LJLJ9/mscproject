@@ -2,13 +2,6 @@
 
 ## Experiment 3: Finer grained sampling approach
 
-
-Test 
-<p><audio src="vae_f0_samples/Example10/tail_8/sample_1.wav" controls style="width: 250px;"></audio></p>
-<p><audio src="vae_f0_samples/Example12/tail_8/sample_1.wav" controls style="width: 250px;"></audio></p>
-<p><audio src="vae_f0_samples/Example14/tail_8/sample_1.wav" controls style="width: 250px;"></audio></p>
-<p><audio src="vae_f0_samples/Example16/tail_8/sample_1.wav" controls style="width: 250px;"></audio></p>
-
 ### Example 9
 
 Reference:          
