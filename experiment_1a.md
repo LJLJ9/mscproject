@@ -44,7 +44,7 @@ Reference:
 ### Example 4
 
 Reference:          
-<p><audio src="Experiment1/vae_f0_web_samples/Example4/reference-converted.wav" controls style="width: 250px;"></audio></p>
+<p><audio src="Experiment1/vae_f0_web_samples/Example4/reference-converted.wav" controls style="width: 250px;"></audio></p> 
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
