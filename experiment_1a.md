@@ -1,13 +1,12 @@
 <!-- exp 1a -->
 
 ## Samples from the model using Griffin Lim
-
-<br><br>
+<br>
 Back to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
 Navigate to Home page [here](https://ljlj9.github.io/mscproject/index.html).
 
-Each "Reference" provides an example rendition using a ground truth mel-spectrogram for synthesis.
+Each Reference provides an example rendition using a ground truth mel-spectrogram for synthesis.
 
 ### Example 1
 
