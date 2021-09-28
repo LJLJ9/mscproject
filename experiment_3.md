@@ -1,6 +1,9 @@
 <!-- exp 3 -->
 
 ## Experiment 3: Finer grained sampling approach
+Return to Home page [here](https://ljlj9.github.io/mscproject/index.html).
+<br><br>
+Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
 
 ### Example 1
 
