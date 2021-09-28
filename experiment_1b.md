@@ -2,6 +2,8 @@
 
 ## Samples from the model using WaveRNN
 
+Return to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
+
 
 | Sample | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
 | --- | --- | --- | --- | --- | --- | --- |
