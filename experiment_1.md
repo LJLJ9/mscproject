@@ -1,6 +1,6 @@
 <!-- exp 1 -->
 
-## Experiment 1: Tail sampling for varied Fo contours
+## Experiment 1: Tail sampling for varied F0 contours
 
 1. [Samples from the model using Griffin Lim](https://ljlj9.github.io/mscproject/experiment_1a.html).
 <br>
