@@ -1,7 +1,9 @@
 <!-- exp 2 -->
 
 ## Experiment 2: Tail sampling with additional acoustic features
-
+Return to Home page [here](https://ljlj9.github.io/mscproject/index.html).
+<br><br>
+Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
 ### Example 1
 Reference:        
 <p><audio src="Experiment2/vae_afp_web_samples/Example1/reference-converted.wav" controls style="width: 250px;"></audio></p>
