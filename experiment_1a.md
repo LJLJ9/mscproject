@@ -1,7 +1,7 @@
 <!-- exp 1a -->
 
 ## Samples from the model using Griffin Lim
-<br><br>
+
 Return to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
 Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
