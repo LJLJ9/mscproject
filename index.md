@@ -1,7 +1,7 @@
 <!-- home page -->
 ## COMP0098: MSc Computational Statistics and Machine Learning Project
 ### This is the companion webpage for the reseach project of candidate **LJLJ9**.
-Audio samples corresponding to the experiments conducted can be found via the links below.
+Audio samples from each of the experiments can be found via the links below.
 <br><br>
 
 [Experiment 1: Tail sampling for varied F0 contours](https://ljlj9.github.io/mscproject/experiment_1.html).
