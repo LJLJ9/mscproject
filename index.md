@@ -1,6 +1,5 @@
 <!-- home page -->
-## COMP0098: MSc Computational Statistics and Machine Learning Project
-### This is the companion webpage for the reseach project of candidate **LJLJ9**.
+### This is the companion webpage for the research project of candidate **LJLJ9**.
 Audio samples from each of the experiments can be found via the links below.
 <br><br>
 
