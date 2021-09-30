@@ -71,7 +71,12 @@ Reference:
 | Tail: r=5.13 | <audio src="Exp1Test/Example10/tail513/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail513/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail513/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail513/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail513/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=8.00 | <audio src="Exp1Test/Example10/tail8/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail8/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail8/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail8/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example10/tail8/sample_5.wav" controls style="width: 250px;"></audio> |
 
+
 <br><br>
-Back to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
+[Listen to more samples](https://ljlj9.github.io/mscproject/experiment_1a_iii.html)
 <br><br>
-Navigate to Home page [here](https://ljlj9.github.io/mscproject/index.html).
+[Go back to previous samples](https://ljlj9.github.io/mscproject/experiment_1a_i.html)
+<br><br>
+Back to [Experiment 1 Home Page](https://ljlj9.github.io/mscproject/experiment_1.html).
+<br><br>
+Navigate to Project Home page [here](https://ljlj9.github.io/mscproject/index.html).
