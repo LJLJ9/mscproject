@@ -13,7 +13,8 @@
 
 4. [Samples from Transfer Examples](https://ljlj9.github.io/mscproject/experiment_1d.html).
 
-
+5. [Samples from the model using Griffin Lim](https://ljlj9.github.io/mscproject/experiment_1a_test.html).
+<br>
 
 
 <br><br>
