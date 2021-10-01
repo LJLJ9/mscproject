@@ -1,11 +1,12 @@
 <!-- exp 1b -->
 
-## Samples from the model using WaveRNN
+## Experiment 1: Samples from the model using WaveRNN
 
-Return to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
+Return to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 
+Renditions from the model that were used in the subjective listening test. 
 
-| Sample | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
+| Utterance | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | <audio src="Experiment1/vae_f0_wavernn_web_samples/afp_f0/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/peak/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/prior/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_392/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_513/Example1.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_8/Example1.wav" controls style="width: 250px;"></audio> |
 | 2 | <audio src="Experiment1/vae_f0_wavernn_web_samples/afp_f0/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/peak/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/prior/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_392/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_513/Example2.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_8/Example2.wav" controls style="width: 250px;"></audio> |
@@ -28,6 +29,6 @@ Return to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
 | 19 | <audio src="Experiment1/vae_f0_wavernn_web_samples/afp_f0/Example19.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/peak/Example19.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/prior/Example19.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_392/Example19.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_513/Example19.wav" controls style="width: 250px;"></audio> | <audio src="Experiment1/vae_f0_wavernn_web_samples/tail_8/Example19.wav" controls style="width: 250px;"></audio> |
 
 <br><br>
-Back to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1.html).
+Return to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
-Navigate to Home page [here](https://ljlj9.github.io/mscproject/index.html).
+Return to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).
