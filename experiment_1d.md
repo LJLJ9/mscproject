@@ -1,6 +1,6 @@
 <!-- exp 1d -->
 
-## Samples from Transfer Examples
+## Experiment 1: Transfer Examples
 
 ### Example 1
 <img src="Experiment1/transfer_examples/Example2/base.png" alt="Ex 1 plot">
