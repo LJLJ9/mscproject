@@ -5,6 +5,7 @@
 Return to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
 Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
+<br>
 Multiple renditions of each utterance are provided under the sampling approaches discussed in the report.
 
 ### Example 16
