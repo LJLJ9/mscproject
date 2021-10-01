@@ -1,6 +1,6 @@
 <!-- exp 1c -->
 
-## Samples from Interpolation Examples
+## Experiment 1: Interpolation Examples
 
 
 ### Example 1
