@@ -5,6 +5,7 @@
 Return to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 
 Renditions from the model that were used in the subjective listening test. 
+See Section 6.1.6 of the report.
 
 | Utterance | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
 | --- | --- | --- | --- | --- | --- | --- |
