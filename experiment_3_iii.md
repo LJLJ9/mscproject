@@ -1,0 +1,86 @@
+<!-- exp 1a -->
+
+## Samples from the model using Griffin Lim
+
+Return to [Experiment 3](https://ljlj9.github.io/mscproject/experiment_3_test.html).
+<br><br>
+Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
+
+### Example 11
+
+Reference:        
+<p><audio src="Exp3Test/Example11/reference.wav" controls style="width: 250px;"></audio></p>
+
+| Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
+| --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example11.wav" controls style="width: 250px;"></audio> | | | | |
+| Mean  | <audio src="Exp3Test/Example11/mean/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
+| Ind. Prior (0.6) | <audio src="Exp3Test/Example11/scaled06/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/scaled06/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/scaled06/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/scaled06/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/scaled06/sample_5.wav" controls style="width: 250px;"></audio> |
+| Ind Prior (1) | <audio src="Exp3Test/Example11/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| AR Prior | <audio src="Exp3Test/Example11/ar_prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/ar_prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/ar_prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/ar_prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/ar_prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| Tail: r=1.96 | <audio src="Exp3Test/Example11/tail2/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/tail2/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/tail2/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/tail2/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example11/tail2/sample_5.wav" controls style="width: 250px;"></audio> |
+
+### Example 12
+
+Reference:          
+<p><audio src="Exp3Test/Example12/reference.wav" controls style="width: 250px;"></audio></p>
+
+| Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
+| --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example12.wav" controls style="width: 250px;"></audio> | | | | |
+| Mean  | <audio src="Exp3Test/Example12/mean/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
+| Ind. Prior (0.6) | <audio src="Exp3Test/Example12/scaled06/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/scaled06/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/scaled06/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/scaled06/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/scaled06/sample_5.wav" controls style="width: 250px;"></audio> |
+| Ind Prior (1) | <audio src="Exp3Test/Example12/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| AR Prior | <audio src="Exp3Test/Example12/ar_prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/ar_prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/ar_prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/ar_prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/ar_prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| Tail: r=1.96 | <audio src="Exp3Test/Example12/tail2/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/tail2/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/tail2/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/tail2/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example12/tail2/sample_5.wav" controls style="width: 250px;"></audio> |
+
+### Example 13
+
+Reference:          
+<p><audio src="Exp3Test/Example13/reference.wav" controls style="width: 250px;"></audio></p>
+
+| Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
+| --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example13.wav" controls style="width: 250px;"></audio> | | | | |
+| Mean  | <audio src="Exp3Test/Example13/mean/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
+| Ind. Prior (0.6) | <audio src="Exp3Test/Example13/scaled06/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/scaled06/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/scaled06/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/scaled06/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/scaled06/sample_5.wav" controls style="width: 250px;"></audio> |
+| Ind Prior (1) | <audio src="Exp3Test/Example13/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| AR Prior | <audio src="Exp3Test/Example13/ar_prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/ar_prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/ar_prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/ar_prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/ar_prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| Tail: r=1.96 | <audio src="Exp3Test/Example13/tail2/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/tail2/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/tail2/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/tail2/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example13/tail2/sample_5.wav" controls style="width: 250px;"></audio> |
+
+### Example 14
+
+Reference:          
+<p><audio src="Exp3Test/Example14/reference.wav" controls style="width: 250px;"></audio></p>
+
+| Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
+| --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example14.wav" controls style="width: 250px;"></audio> | | | | |
+| Mean  | <audio src="Exp3Test/Example14/mean/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
+| Ind. Prior (0.6) | <audio src="Exp3Test/Example14/scaled06/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/scaled06/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/scaled06/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/scaled06/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/scaled06/sample_5.wav" controls style="width: 250px;"></audio> |
+| Ind Prior (1) | <audio src="Exp3Test/Example14/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| AR Prior | <audio src="Exp3Test/Example14/ar_prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/ar_prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/ar_prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/ar_prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/ar_prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| Tail: r=1.96 | <audio src="Exp3Test/Example14/tail2/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/tail2/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/tail2/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/tail2/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example14/tail2/sample_5.wav" controls style="width: 250px;"></audio> |
+
+### Example 15
+
+Reference:          
+<p><audio src="Exp3Test/Example15/reference.wav" controls style="width: 250px;"></audio></p>
+
+| Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
+| --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example15.wav" controls style="width: 250px;"></audio> | | | | |
+| Mean  | <audio src="Exp3Test/Example15/mean/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
+| Ind. Prior (0.6) | <audio src="Exp3Test/Example15/scaled06/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/scaled06/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/scaled06/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/scaled06/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/scaled06/sample_5.wav" controls style="width: 250px;"></audio> |
+| Ind Prior (1) | <audio src="Exp3Test/Example15/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| AR Prior | <audio src="Exp3Test/Example15/ar_prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/ar_prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/ar_prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/ar_prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/ar_prior/sample_5.wav" controls style="width: 250px;"></audio> |
+| Tail: r=1.96 | <audio src="Exp3Test/Example15/tail2/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/tail2/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/tail2/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/tail2/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp3Test/Example15/tail2/sample_5.wav" controls style="width: 250px;"></audio> |
+
+<br><br>
+Listen to [more samples](https://ljlj9.github.io/mscproject/experiment_3_iv.html)
+<br><br>
+Back to [previous samples](https://ljlj9.github.io/mscproject/experiment_3_ii.html)
+<br><br>
+Back to [Experiment 2 Homepage](https://ljlj9.github.io/mscproject/experiment_3_test.html).
+<br><br>
+Back to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).

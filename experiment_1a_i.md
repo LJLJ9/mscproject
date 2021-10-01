@@ -74,6 +74,6 @@ Reference:
 <br><br>
 [Listen to more samples](https://ljlj9.github.io/mscproject/experiment_1a_ii.html)
 <br><br>
-Back to [Experiment 1 Home Page](https://ljlj9.github.io/mscproject/experiment_1.html).
+Back to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
-Navigate to Project Home page [here](https://ljlj9.github.io/mscproject/index.html).
+Back to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).

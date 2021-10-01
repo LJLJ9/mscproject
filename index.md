@@ -9,4 +9,4 @@ Audio samples from each of the experiments can be found via the links below.
 [Experiment 2: Tail sampling with additional acoustic features](https://ljlj9.github.io/mscproject/experiment_2_test.html).
 <br>
 
-[Experiment 3: Finer grained sampling approaches](https://ljlj9.github.io/mscproject/experiment_3.html).
+[Experiment 3: Finer grained sampling approaches](https://ljlj9.github.io/mscproject/experiment_3_test.html).
