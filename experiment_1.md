@@ -18,4 +18,4 @@
 
 
 <br><br>
-Navigate to Home page [here](https://ljlj9.github.io/mscproject/index.html).
+Return to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).
