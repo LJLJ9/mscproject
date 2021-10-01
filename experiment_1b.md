@@ -4,8 +4,9 @@
 
 Return to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 
-Renditions from the model that were used in the subjective listening test. 
-See Section 6.1.6 of the report.
+Renditions that were used in the subjective listening tests. <br>
+Note: AFP F0 denotes a deterministc AFP that only models F0. The remaining columns relate to the different sampling approaches discussed in the report.
+See Section 6.1.6 for details.
 
 | Utterance | AFP F0 | Peak | Prior | Tail: r=3.92 | Tail: r=5.13 | Tail:r=8 |
 | --- | --- | --- | --- | --- | --- | --- |
