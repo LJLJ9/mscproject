@@ -2,9 +2,10 @@
 
 ## Samples from the model using Griffin Lim
 
-Return to [Experiment 1](https://ljlj9.github.io/mscproject/experiment_1a_test.html).
+Return to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
 Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
+Multiple renditions of each utterance are provided under the sampling approaches discussed in the report.
 
 ### Example 1
 
@@ -72,8 +73,8 @@ Reference:
 | Tail: r=8.00 | <audio src="Exp1Test/Example5/tail8/samples_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example5/tail8/samples_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example5/tail8/samples_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example5/tail8/samples_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp1Test/Example5/tail8/samples_5.wav" controls style="width: 250px;"></audio> |
 
 <br><br>
-[Listen to more samples](https://ljlj9.github.io/mscproject/experiment_1a_ii.html)
+Listen to [more samples](https://ljlj9.github.io/mscproject/experiment_1a_ii.html)
 <br><br>
-Back to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
+Return to [Experiment 1 Homepage](https://ljlj9.github.io/mscproject/experiment_1.html).
 <br><br>
-Back to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).
+Return to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).

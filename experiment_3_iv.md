@@ -2,10 +2,10 @@
 
 ## Samples from the model using Griffin Lim
 
-Return to [Experiment 3](https://ljlj9.github.io/mscproject/experiment_3_test.html).
+Return to [Experiment 3 Homepage](https://ljlj9.github.io/mscproject/experiment_3_test.html).
 <br><br>
 Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
-
+Multiple renditions of each utterance are provided under the sampling approaches discussed in the report. We also include a rendition from the determinist AFP as in the original CTRL-P paper.
 ### Example 16
 
 Reference:        
@@ -79,8 +79,8 @@ Reference:
 
 
 <br><br>
-Back to [previous samples](https://ljlj9.github.io/mscproject/experiment_3_iii.html)
+Return to [previous samples](https://ljlj9.github.io/mscproject/experiment_3_iii.html)
 <br><br>
-Back to [Experiment 3 Homepage](https://ljlj9.github.io/mscproject/experiment_3_test.html).
+Return to [Experiment 3 Homepage](https://ljlj9.github.io/mscproject/experiment_3_test.html).
 <br><br>
-Back to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).
+Return to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).
