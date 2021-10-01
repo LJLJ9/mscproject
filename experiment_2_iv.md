@@ -13,6 +13,7 @@ Reference:
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example16.wav" controls style="width: 250px;"></audio> | | | | |
 | Peak  | <audio src="Exp2Test/Example16/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
 | Prior | <audio src="Exp2Test/Example16/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/prior/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=3.92 | <audio src="Exp2Test/Example16/tail392/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/tail392/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/tail392/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/tail392/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example16/tail392/sample_5.wav" controls style="width: 250px;"></audio> |
@@ -26,6 +27,7 @@ Reference:
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example17.wav" controls style="width: 250px;"></audio> | | | | |
 | Peak  | <audio src="Exp2Test/Example17/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
 | Prior | <audio src="Exp2Test/Example17/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/prior/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=3.92 | <audio src="Exp2Test/Example17/tail392/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/tail392/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/tail392/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/tail392/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example17/tail392/sample_5.wav" controls style="width: 250px;"></audio> |
@@ -39,6 +41,7 @@ Reference:
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example18.wav" controls style="width: 250px;"></audio> | | | | |
 | Peak  | <audio src="Exp2Test/Example18/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
 | Prior | <audio src="Exp2Test/Example18/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/prior/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=3.92 | <audio src="Exp2Test/Example18/tail392/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/tail392/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/tail392/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/tail392/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example18/tail392/sample_5.wav" controls style="width: 250px;"></audio> |
@@ -52,6 +55,7 @@ Reference:
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example19.wav" controls style="width: 250px;"></audio> | | | | |
 | Peak  | <audio src="Exp2Test/Example19/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
 | Prior | <audio src="Exp2Test/Example19/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/prior/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=3.92 | <audio src="Exp2Test/Example19/tail392/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/tail392/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/tail392/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/tail392/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example19/tail392/sample_5.wav" controls style="width: 250px;"></audio> |
@@ -65,6 +69,7 @@ Reference:
 
 | Sampling Approach | Sample 1 | Sample 2 | Sample 3 | Sample 4 | Sample 5 |
 | --- | --- | --- | --- | --- | --- |
+| AFP | <audio src="afp_web_samples/Example20.wav" controls style="width: 250px;"></audio> | | | | |
 | Peak  | <audio src="Exp2Test/Example20/peak/sample_1.wav" controls style="width: 250px;"></audio> | | | | |
 | Prior | <audio src="Exp2Test/Example20/prior/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/prior/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/prior/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/prior/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/prior/sample_5.wav" controls style="width: 250px;"></audio> |
 | Tail: r=3.92 | <audio src="Exp2Test/Example20/tail392/sample_1.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/tail392/sample_2.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/tail392/sample_3.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/tail392/sample_4.wav" controls style="width: 250px;"></audio> | <audio src="Exp2Test/Example20/tail392/sample_5.wav" controls style="width: 250px;"></audio> |
