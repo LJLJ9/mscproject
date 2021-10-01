@@ -1,6 +1,6 @@
 <!-- exp 1a -->
 
-## Samples from the model using Griffin Lim
+## Experiment 2: Samples from the model using Griffin Lim
 
 Return to [Experiment 2 Homepage](https://ljlj9.github.io/mscproject/experiment_2_test.html).
 <br><br>
