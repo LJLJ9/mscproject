@@ -7,7 +7,7 @@ Return to [Experiment 2 Homepage](https://ljlj9.github.io/mscproject/experiment_
 Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
 <br>
 Multiple renditions of each utterance are provided under the sampling approaches discussed in the report.
-<br> We also include a rendition from a deterministic AFP for comparison.
+We also include a rendition from a deterministic AFP for comparison.
 ### Example 6
 
 Reference:          
