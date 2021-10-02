@@ -2,7 +2,7 @@
 
 ## Experiment 2: Samples from the model using Griffin Lim
 
-Return to [Experiment 2 Homepage](https://ljlj9.github.io/mscproject/experiment_2_test.html).
+Return to [Experiment 2 Homepage](https://ljlj9.github.io/mscproject/experiment_2.html).
 <br><br>
 Each Reference audio provides an example rendition using a ground truth mel-spectrogram for synthesis.
 <br>
@@ -84,6 +84,6 @@ Listen to [more samples](https://ljlj9.github.io/mscproject/experiment_2_iii.htm
 <br><br>
 Return to [previous samples](https://ljlj9.github.io/mscproject/experiment_2_i.html)
 <br><br>
-Return to [Experiment 2 Homepage](https://ljlj9.github.io/mscproject/experiment_2_test.html).
+Return to [Experiment 2 Homepage](https://ljlj9.github.io/mscproject/experiment_2.html).
 <br><br>
 Return to [Project Homepage](https://ljlj9.github.io/mscproject/index.html).
